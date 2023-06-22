@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emarubu" alt="emarubu" /></a> </p>
 
-- 🌱 I’m currently learning **React, Bootstrap, sass, Redux**
+- 🌱 I’m currently learning **React, Bootstrap, sass, Redux, jest**
 
 - 👯 I’m looking to collaborate on **any projects**
 
